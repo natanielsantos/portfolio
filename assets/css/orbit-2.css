@@ -261,7 +261,7 @@ p {
 }
 
 .main-wrapper .projects-section .intro {
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 
 .main-wrapper .projects-section .item {
@@ -269,7 +269,7 @@ p {
 }
 
 .skillset .item {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   overflow: hidden;
 }
 
