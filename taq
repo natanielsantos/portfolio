@@ -1,0 +1,89 @@
+[33mcommit 27ae47da8ffd959113ecdb4594c54e1038ba7dd4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 33bbb76 2610caf
+Author: Nataniel <nataniel@Nataniel>
+Date:   Fri May 13 11:55:29 2022 -0300
+
+    Merge branch 'master' of https://github.com/natanielsantos/portfolio
+
+[33mcommit 33bbb76f8ebe99ced0bf7b98063de9f3512bc950[m
+Author: Nataniel <nataniel@Nataniel>
+Date:   Fri May 13 11:52:10 2022 -0300
+
+    update Index
+
+[33mcommit 2610caf742457a35f2738c54b6c0930bb732088b[m
+Author: Nataniel Santos <natanielsa@gmail.com>
+Date:   Thu Feb 24 19:55:25 2022 -0300
+
+    Update index.html
+    
+    update Formação e premiação
+
+[33mcommit 6388118540df1b2490a43b99b0e763e79954af59[m
+Author: Nataniel Santos <natanielsa@gmail.com>
+Date:   Thu Feb 24 19:50:25 2022 -0300
+
+    Update index.html
+    
+    delete Projeto de Webscrapping (incompleto)
+
+[33mcommit 931d760cbeda4f12c2fa647eec1167e1be33115a[m
+Author: Nataniel <nataniel@Nataniel>
+Date:   Tue Feb 15 13:43:12 2022 -0300
+
+    update Projetos de portfolio
+
+[33mcommit f766ae4f9c446445be0d2ad5cb1eba10bc068b7f[m
+Author: Nataniel Santos <natanielsa@gmail.com>
+Date:   Wed Dec 15 18:25:03 2021 -0300
+
+    update Organiza o modelo do portoflio definido
+
+[33mcommit e903af2530b416a729ff78c67895e67f8776ec59[m
+Author: Nataniel Santos <nataniel@debian.nataniel>
+Date:   Tue Aug 24 22:28:40 2021 -0300
+
+    update portfolio
+
+[33mcommit 7cc9da2ee72f641a854403a1d966da67b64d08cb[m
+Author: Nataniel Santos <nataniel@debian.nataniel>
+Date:   Tue Aug 24 22:20:20 2021 -0300
+
+    Atualiza portfolio
+
+[33mcommit 9f97bc9422bc54e2af01a23a879d87353a4a61dd[m
+Author: Nataniel Santos <nataniel@debian.nataniel>
+Date:   Thu Jul 29 21:08:00 2021 -0300
+
+    update Informações de portófio - adiciona link do projeto de votação
+
+[33mcommit b70cfc32cdab264ffc4f75ad10fae37cb7dfa0ff[m
+Author: Nataniel Santos <nataniel@debian.nataniel>
+Date:   Mon Jul 19 22:55:27 2021 -0300
+
+    Link para segundo portfolio
+
+[33mcommit 075bbdde365120fe8a5c38ed3bad08d2ecceedb6[m
+Author: Nataniel Santos <nataniel@debian.nataniel>
+Date:   Mon Jul 19 22:28:31 2021 -0300
+
+    Adiciona portfolio2
+
+[33mcommit c29b84ca73d93b1e9966bd9e684527f11e4e69fd[m
+Merge: 7a2277c 5478c97
+Author: Nataniel <natanielsa@gmail.com>
+Date:   Sat Jul 3 15:14:01 2021 -0300
+
+    Initial commit
+
+[33mcommit 7a2277c38cd95f301e09be45b5ce7ff3d376cbde[m
+Author: Nataniel <natanielsa@gmail.com>
+Date:   Sat Jul 3 15:06:00 2021 -0300
+
+    Initial commit
+
+[33mcommit 5478c978b09945bcbd26b87b31b1f5d7a61cf794[m
+Author: Nataniel Santos <natanielsa@gmail.com>
+Date:   Sat Jul 3 14:37:10 2021 -0300
+
+    Initial commit
